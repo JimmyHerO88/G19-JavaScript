@@ -1,0 +1,20 @@
+.lista-menu button{
+    padding: 1rem 1.6rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px #d1d1d1;
+}
+
+#menu{
+
+}
+
+li{
+    list-style: none;
+    margin: 10px;
+}
+
+.active{
+    background-color: rgb(61, 91, 224);
+    color: #d1d1d1;
+}
